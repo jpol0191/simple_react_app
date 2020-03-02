@@ -1,0 +1,17 @@
+.appointment-list-item {
+  background: lightgrey;
+  margin: 10px;
+  margin-bottom: 20px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  .appointment-list-item-actions{
+    display: flex;
+    .button{
+      margin: 20px;
+      padding: 10px;
+      background: grey;
+    }
+  }
+}

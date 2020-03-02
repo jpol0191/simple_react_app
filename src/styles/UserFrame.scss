@@ -1,0 +1,12 @@
+.user-frame {
+  display: flex;
+  align-items: center;
+  .user-frame-greeting{
+    font-size: 1.3em;
+  }
+  .user-frame-avatar{
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
+  }
+}
